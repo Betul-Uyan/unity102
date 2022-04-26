@@ -1,37 +1,34 @@
 # **Takım İsmi**
 
-Takım X
+Unity 102
 
 # Ürün İle İlgili Bilgiler
 
 ## Takım Elemanları
 
-- John Doe: Product Owner
-- Jane Doe: Scrum Master
-- Atıl Samancıoğlu: Team Member/Developer
+- Buse Elitok: Team Member/Developer
+- Enes Şağban: Team Member/Developer
+- Murat Çelik: Team Member/Developer
 
 ## Ürün İsmi
 
---Movie App--
+--Cinematic Adventure Game--
 
 ## Ürün Açıklaması
 
-- Movie App uygulamamız ile insanların izlemek istediği filmlere ve dizilere daha kolay karar vermesini sağlayacağız. İçerisinde binlerce filmi barındıran uygulamamız aynı zamanda Netflix, Prime vb. platformlarda yayınlanıp yayınlanmadığını ve IMDB puanlarını da gösterecek.
+- Buraya bir açıklama yazacağız.
 
 ## Ürün Özellikleri
 
-- Filmleri türüne göre ayırma
-- Filmlerin yönetmen, aktör, aktris vb. bilgilerini posteriyle birlikte gösterme
-- IMDB ve Rotten Tomatoes puanlarını gösterme
-- Netflix'te ve Prime'da bulunurluğunu gösterme
+- Buraya bir özellik yazacağız.
+- Buraya diğer bir özellik yazacağız.
+- Buraya bir özellik daha yazacağız.
 
 ## Hedef Kitle
 
-- Netflix kullanıcıları
-- Prime kullanıcıları
-- Sinema severler
-- Dizi severler
-- 15 - 65 yaş arası kullanıcılar
+- Buraya hedef kitlemizi yazacağız.
+- Buraya hedef kitlemizi yazacağız.
+- Buraya hedef kitlemizi yazacağız.
 
 ## Product Backlog URL
 
