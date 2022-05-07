@@ -29,53 +29,38 @@ Unity 102
 ## Hedef Kitle
 
 - Buraya hedef kitlemizi yazacağız.
-- Buraya hedef kitlemizi yazacağız.
-- Buraya hedef kitlemizi yazacağız.
 
 ## Product Backlog URL
 
-[Miro Backlog Board](https://miro.com/app/board/uXjVOSSCpsI=/)
+[Unity102 Mural](https://app.mural.co/t/betuls8975/m/betuls8975/1651923331602/c62204176cc140902a8ab5a47d0de3a398760e55?sender=u8ebb9b33c2e2c974b4bc1987)
 
 ---
 
 # Sprint 1
 
-- **Sprint Notları**: User Story'ler product backlog'ların içine yazılmıştır. Product backlog item'lara tıklandığında hikayelerin detayları okunabilir.
+- **Sprint Notları**: Product backloglar ilgili sprint tablolarında gösterilmiştir. Görev alan/katkı veren takım üyeleri renk kodlarıyla backlog'un yanında gösterilmiştir. 
 
-- **Sprint içinde tamamlanması tahmin edilen puan**: 100 Puan
-
-- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 380 puanlık backlog bulunmaktadır. 4 sprint'e bölündüğünde ilk sprint'in en azından 100 ile başlaması gerektiğine karar verildi.
-
-- **Backlog düzeni ve Story seçimleri**: Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur. 
-
-Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözüken kırmızı item'lar yapılacak işleri (task) gösterirken, mavi item'lar story'leri temsil etmektedir.
-
-- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Slack üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 1 Daily Scrum Chats](https://github.com/OyunveUygulamaAkademisi/BootcampScrumTemplate/blob/main/ProjectManagement/Sprint1Documents/DailyScrumMeetingNotesSprint1.docx?raw=true)
+- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü WhatsApp ve zaman zaman Zoom üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantı notları: [Unity102 - Sprint 1 Daily Scrum](https://github.com/Betul-Uyan/unity102/blob/main/ProjectManagement/Sprint1Documents/Unity102_DailyScrumMeetingNotesSprint1.docx)
 
 - **Sprint board update**: Sprint board screenshotları: 
-![Backlog 1](https://raw.githubusercontent.com/OyunveUygulamaAkademisi/BootcampScrumTemplate/main/ProjectManagement/Sprint1Documents/backlog1.png) 
-![Backlog 2](https://raw.githubusercontent.com/OyunveUygulamaAkademisi/BootcampScrumTemplate/main/ProjectManagement/Sprint1Documents/backlog2.png) 
-![Backlog 3](https://raw.githubusercontent.com/OyunveUygulamaAkademisi/BootcampScrumTemplate/main/ProjectManagement/Sprint1Documents/backlog3.png)
+![Backlog 1](https://github.com/Betul-Uyan/unity102/blob/main/ProjectManagement/Sprint1Documents/1.jpeg) 
+![Backlog 2](https://github.com/Betul-Uyan/unity102/blob/main/ProjectManagement/Sprint1Documents/2.jpeg) 
+![Backlog 3](https://github.com/Betul-Uyan/unity102/blob/main/ProjectManagement/Sprint1Documents/3.jpeg)
 
-- **Ürün Durumu**: Ekran görüntüleri:
-  ![Screenshot 1](https://github.com/OyunveUygulamaAkademisi/BootcampScrumTemplate/blob/main/ProjectManagement/Sprint1Documents/productss1.png?raw=true)
-  ![Screenshot 2](https://github.com/OyunveUygulamaAkademisi/BootcampScrumTemplate/blob/main/ProjectManagement/Sprint1Documents/productss2.png?raw=true)
+- **Ürün Durumu**: Ürünün cinematic adventure türünde 2B piksel art stilinde üretileceği öngörülmektedir. Benzer oyunlar ve getirilebilecek yenilikler araştırılmaktadır.
 
 - **Sprint Review**: 
-Alınan kararlar: Veritabanı oluşturması email ile toplanacak veriler için gerekli görülmüştür. Fakat bir yandan da veritabanı form sayfası için gerekli olmamıştır. O sebeple PBI bir sonraki sprint'e aktarılmıştır. Çıkan ürünün çalışmasında ve testlerinde bir problem görülmemiştir. Ekstra koyulması gereken özellikler belirlenmiştir. Sprint Review katılımcıları: ......
+Alınan kararlar: Oyun geliştirme sürecinin başında High-Level Design Document (HLDD) hazırlanarak oyunun anahatlarının belgelenmesine karar verilmiştir. Bu aşamadan sonra oyun için gereken mekanikler araştırılarak uygulanacak ve oyun assetleri hazırlanacaktır. Karakter ve seviye tasarımı 2. Sprint'te konuşulacaktır. Sprint Review katılımcıları: Betül Uyan, Buse Elitok, Enes Şağban, Murat Çelik, Tuba Kızgın.
 
 - **Sprint Retrospective:**
-  - Takım içindeki görev dağılımıyla ilgili düzenleme yapılması kararı alınmıştır
-  - Tahmin puanları gözden geçirilmeli ve sprint planlama toplantılarında gerekli geri bildirimlerin developer'lar tarafından verildiğine emin olunmalı
-  - Unit test'ler için ayrılan efor/saat arttırılmalı 
+  - HLDD hazırlandıktan sonra takım içindeki görev dağılımıyla ilgili düzenleme yapılması kararı alınmıştır.
+  - Ortak takvim belirlenmeli ve oluşabilecek gecikmeler için B planı da düşünülmeli.
+  - Oyun üretimi için ayrılan zaman/ortaya konan çaba arttırılmalı.
 
 -**Diğer Notlar**:
-- N/A
-
----
+- Product Owner rolünün üstlenilmesi gerekiyor.
 
 # Sprint 2
-
 
 ---
 
