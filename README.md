@@ -38,7 +38,7 @@ Unity 102
 
 # Sprint 1
 
-- **Sprint Notları**: Product backloglar ilgili sprint tablolarında gösterilmiştir. Görev alan/katkı veren takım üyeleri renk kodlarıyla backlog'un yanında gösterilmiştir. 
+- **Sprint Notları**: Product backloglar ilgili sprint tablolarında gösterilmiştir. Görev alan/katkı veren takım üyeleri renk kodlarıyla backlog'un yanında gösterilmiştir. Tamamlanması gereken toplam puan hedefi 200 olarak belirlenmiştir. Sprint 1 için puan hedefi 80'dir.
 
 - **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü WhatsApp ve zaman zaman Zoom üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantı notları: [Unity102 - Sprint 1 Daily Scrum](https://github.com/Betul-Uyan/unity102/blob/main/ProjectManagement/Sprint1Documents/Unity102_DailyScrumMeetingNotesSprint1.docx)
 
