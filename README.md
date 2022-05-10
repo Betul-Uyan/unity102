@@ -47,7 +47,9 @@ Unity 102
 ![Backlog 2](https://github.com/Betul-Uyan/unity102/blob/main/ProjectManagement/Sprint1Documents/2.jpeg) 
 ![Backlog 3](https://github.com/Betul-Uyan/unity102/blob/main/ProjectManagement/Sprint1Documents/3.jpeg)
 
-- **Ürün Durumu**: Ürünün cinematic adventure türünde 2B piksel art stilinde üretileceği öngörülmektedir. Benzer oyunlar ve getirilebilecek yenilikler araştırılmaktadır.
+- **Ürün Durumu**: Ürünün cinematic adventure türünde 2,5D art stilinde üretileceği öngörülmektedir. Benzer oyunlar ve getirilebilecek yenilikler araştırılmaktadır. İncelediğimiz örnek oyunlardan ürün konseptimize en yakın olanların ekran görüntüleri aşağıda eklenmiştir:
+![Örnek SS 1](https://github.com/Betul-Uyan/unity102/blob/main/ProjectManagement/Sprint1Documents/%C3%B6rnek_ss_1.jpg) 
+![Örnek SS 2](https://github.com/Betul-Uyan/unity102/blob/main/ProjectManagement/Sprint1Documents/%C3%B6rnek_ss_2.jpg) 
 
 - **Sprint Review**: 
 Alınan kararlar: Oyun geliştirme sürecinin başında High-Level Design Document (HLDD) hazırlanarak oyunun anahatlarının belgelenmesine karar verilmiştir. Bu aşamadan sonra oyun için gereken mekanikler araştırılarak uygulanacak ve oyun assetleri hazırlanacaktır. Karakter ve seviye tasarımı 2. Sprint'te konuşulacaktır. Sprint Review katılımcıları: Betül Uyan, Buse Elitok, Enes Şağban, Murat Çelik, Tuba Kızgın.
