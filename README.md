@@ -7,10 +7,10 @@ Unity 102
 ## Takım Elemanları
 
 - Betül Uyan: Scrum Master
-- Buse Elitok: Team Member/Developer
-- Enes Şağban: Team Member/Developer
-- Murat Çelik: Team Member/Developer
-- Tuba Kızgın
+- Tuba Kızgın: Product Owner
+- Buse Elitok: Developer
+- Enes Şağban: Developer
+- Murat Çelik: Developer
 
 ## Ürün İsmi
 
