@@ -77,6 +77,7 @@ Alınan kararlar: Oyun geliştirme sürecinin başında High-Level Design Docume
 ![Ürün Durumu 1](https://github.com/Betul-Uyan/unity102/blob/main/ProjectManagement/Sprint2Documents/urunDurumu1.jpg)
 ![Ürün Durumu 2](https://github.com/Betul-Uyan/unity102/blob/main/ProjectManagement/Sprint2Documents/urunDurumu2.jpg)
 ![Ürün Durumu 3](https://github.com/Betul-Uyan/unity102/blob/main/ProjectManagement/Sprint2Documents/urunDurumu3.jpg)
+![Örnek Ürün 1]((https://github.com/Betul-Uyan/unity102/blob/main/ProjectManagement/Sprint2Documents/ornekUrun1.jpg)
 - Level Map Referans: https://www.zcool.com.cn/work/ZMzg5NTQ3NDg=.html
 - Bow&Arrow Asset Referans: https://assetstore.unity.com/packages/templates/bow-arrow-32783#description
 - Wood Texture Referans: https://tr.pinterest.com/pin/539517230332760403/
