@@ -74,9 +74,9 @@ Alınan kararlar: Oyun geliştirme sürecinin başında High-Level Design Docume
 ![Sprint Board Update 3](https://github.com/Betul-Uyan/unity102/blob/main/ProjectManagement/Sprint2Documents/sprintBoardUpdate3.jpg) 
 
 - **Ürün Durumu**: Yapılan ürün ve asset araştırmaları sonucunda ürünün dart game olmasına karar verilmiştir. Dart game olarak ürünü değiştirme kararında hikaye yazmaya ayrılacak zaman yerine eğlence faktörünü iyi bir şekilde ortaya koyan oyun mekaniklerini çözme hevesimiz etkili olmuştur. Referans olarak alınan "aa" isimli oyunun grafikleri geliştirilerek, internet üzerinden eşleşme ile karşılaşmalı bir oyun üretilmeye başlanmıştır. Ürünün son durumuna ait görseller aşağıdadır:
-![Ürün Durumu 2](https://github.com/Betul-Uyan/unity102/blob/main/ProjectManagement/Sprint2Documents/urunDurumu2.jpg)
+- ![Ürün Durumu 2](https://github.com/Betul-Uyan/unity102/blob/main/ProjectManagement/Sprint2Documents/urunDurumu2.jpg)
 ![Ürün Durumu 3](https://github.com/Betul-Uyan/unity102/blob/main/ProjectManagement/Sprint2Documents/urunDurumu3.jpg)
-![Ürün Durumu 1](https://github.com/Betul-Uyan/unity102/blob/main/ProjectManagement/Sprint2Documents/urunDurumu1.jpg)
+- ![Ürün Durumu 1](https://github.com/Betul-Uyan/unity102/blob/main/ProjectManagement/Sprint2Documents/urunDurumu1.jpg)
 - AA oyunu (örnek ürün): ![Örnek Ürün 1](https://github.com/Betul-Uyan/unity102/blob/main/ProjectManagement/Sprint2Documents/ornekUrun1.jpg)
 - Level Map Referans: https://www.zcool.com.cn/work/ZMzg5NTQ3NDg=.html
 - Bow&Arrow Asset Referans: https://assetstore.unity.com/packages/templates/bow-arrow-32783#description
