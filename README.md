@@ -14,7 +14,7 @@ Unity 102
 
 ## Ürün İsmi
 
---Cinematic Adventure Game--
+--Dart Game--
 
 ## Ürün Açıklaması
 
@@ -64,7 +64,30 @@ Alınan kararlar: Oyun geliştirme sürecinin başında High-Level Design Docume
 
 # Sprint 2
 
----
+- **Sprint Notları**: Product backloglar ilgili sprint tablolarında gösterilmiştir. Görev alan/katkı veren takım üyeleri renk kodlarıyla backlog'un yanında gösterilmiştir. Tamamlanması gereken toplam puan hedefi 200 olarak belirlenmiştir. Sprint 2 için puan hedefi 80'dir. Her bir iş için belirlenen puan, yanındaki sarı renkli çemberin içinde yazılı olarak panoda gösterilmiştir. Mor renkli çemberler değer puanını göstermektedir.
+
+- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü haftada 2 kere Zoom üzerinden, diğer günler WhatsApp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantı notları: [Unity102 - Sprint 2 Daily Scrum](link)
+
+- **Sprint board update**: Sprint board screenshotları: 
+![Backlog 1](link) 
+![Backlog 2](link) 
+
+- **Ürün Durumu**: Yapılan ürün ve asset araştırmaları sonucunda ürünün dart game olmasına karar verilmiştir. Dart game olarak ürünü değiştirme kararında hikaye yazmaya ayrılacak zaman yerine eğlence faktörünü iyi bir şekilde ortaya koyan oyun mekaniklerini çözme hevesimiz etkili olmuştur. Referans olarak alınan "aa" isimli oyunun grafikleri geliştirilerek, internet üzerinden eşleşme ile karşılaşmalı bir oyun üretilmeye başlanmıştır. Ürünün son durumuna ait görseller aşağıdadır:
+![Örnek SS 1](link) 
+![Örnek SS 2](link) 
+
+- **Sprint Review**: 
+Alınan kararlar: Yapılan ürün ve asset araştırmaları sonucunda ürünün dart game olmasına karar verilmiştir. Dart game olarak ürünü değiştirme kararında hikaye yazmaya ayrılacak zaman yerine eğlence faktörünü iyi bir şekilde ortaya koyan oyun mekaniklerini çözme hevesimiz etkili olmuştur. HLDD belgesi gelişmeye devam ederken ücretsiz assetlerle oyunun prototip leveli oluşturulmuş, atış sistemi için gereken mekanikler araştırılmaya başlanmıştır. Bu aşamadan sonra oyun internet üzerinden eşleşme sistemi araştırılarak denenecektir. Optimizasyon ve .apk çıktısı 3. Sprint'te konuşulacaktır. Sprint Review katılımcıları: Betül Uyan, Buse Elitok, Enes Şağban, Murat Çelik, Tuba Kızgın.
+
+- **Sprint Retrospective:**
+  - Kod yazma konusunda takım üyelerinin daha aktif olması gerekiyor.
+  - Ses assetleri konusunda araştırmalar arttırılmalı.
+  - Level tasarımı ve UI tasarımı için daha fazla takım üyesinin görev alması gerekiyor.
+
+-**Diğer Notlar**:
+- Dosya gezginine erişim sistemi oluşturarak Dartboard'a fotoğraf ekleyebilme fikri, oyunculardan beklenen reaksiyonu alamayacağı düşünüldüğü için reddedilmiştir.
+- İnternet üzerinden eşleşme sistemi ve multiplayer level tasarımı Sprint 3'e aktarılabilir.
+- Sprint 2 görevlerine 25 Mayıs Çarşamba'ya kadar devam edilecektir.
 
 # Sprint 3
 
