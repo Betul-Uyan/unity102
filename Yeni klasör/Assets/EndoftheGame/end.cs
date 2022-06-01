@@ -4,8 +4,16 @@ using UnityEngine;
 
 public class end : MonoBehaviour
 {
-    public void Finishthegame()
-    {
+    public GameObject SpinningCircle;
+    public GameObject ArrowSpawn;
 
+    // Update is called once per frame
+    public void finish()
+    {
+        SpinningCircle.GetComponent<SpinningCircle>().enabled = false;
+        ArrowSpawn.GetComponent<ArrowSpawn>().enabled = false;
+        
     }
 }
+
+

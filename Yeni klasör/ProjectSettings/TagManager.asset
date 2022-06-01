@@ -6,6 +6,7 @@ TagManager:
   tags:
   - target
   - darts
+  - Manager
   layers:
   - Default
   - TransparentFX

@@ -215,9 +215,10 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 616807940}
+  - component: {fileID: 616807941}
   m_Layer: 0
   m_Name: Manager
-  m_TagString: Untagged
+  m_TagString: Manager
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -236,6 +237,20 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &616807941
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 616807939}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4da4e0edd6ff89b4d8fe3b54c265fa20, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  SpinningCircle: {fileID: 1560284507}
+  ArrowSpawn: {fileID: 812493480}
 --- !u!1 &795314091
 GameObject:
   m_ObjectHideFlags: 0
@@ -495,7 +510,7 @@ GameObject:
   - component: {fileID: 1560284508}
   - component: {fileID: 1560284511}
   m_Layer: 0
-  m_Name: Darts Board
+  m_Name: DartsBoard
   m_TagString: darts
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
