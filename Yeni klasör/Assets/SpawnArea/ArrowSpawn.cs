@@ -14,14 +14,17 @@ public class ArrowSpawn : MonoBehaviour
     public int remainingArrow=5; //kalan ok sayýsý
     public bool isGameEnded = false;
     public float restartDelay = 5f;
+    bool isStarted = false;
 
     void Update()
     {
         if (Input.GetMouseButtonDown(0)) //sol týka basýlýrsa ok atýlýr
-            remainingArrow--;
-        if (remainingArrow != 0)
+            isStarted = true;
+        if (isStarted)
             ArrowSpawner();
-        else FinishTheGame();
+        //remainingArrow--;
+        //if (remainingArrow != 0)
+        //else FinishTheGame();
     }
 
     void ArrowSpawner()
