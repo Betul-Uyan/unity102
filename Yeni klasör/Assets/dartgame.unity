@@ -251,8 +251,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4da4e0edd6ff89b4d8fe3b54c265fa20, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  SpinningCircle: {fileID: 1560284507}
-  ArrowSpawn: {fileID: 812493480}
 --- !u!1 &795314091
 GameObject:
   m_ObjectHideFlags: 0
@@ -375,6 +373,7 @@ GameObject:
   - component: {fileID: 812493483}
   - component: {fileID: 812493482}
   - component: {fileID: 812493481}
+  - component: {fileID: 812493484}
   m_Layer: 0
   m_Name: SpawnArea
   m_TagString: Untagged
@@ -465,6 +464,32 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 90.002}
+--- !u!61 &812493484
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 812493480}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 2.82, y: 0.57}
+    newSize: {x: 2.82, y: 0.57}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 2.82, y: 0.57}
+  m_EdgeRadius: 0
 --- !u!1 &1206560112
 GameObject:
   m_ObjectHideFlags: 0
