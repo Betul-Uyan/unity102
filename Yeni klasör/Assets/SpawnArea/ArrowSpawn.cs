@@ -15,13 +15,17 @@ public class ArrowSpawn : MonoBehaviour
     public bool isGameEnded = false;
     public float restartDelay = 5f;
     bool isStarted = false;
+    public Collider2D col;
 
     void Update()
     {
         if (Input.GetMouseButtonDown(0)) //sol týka basýlýrsa ok atýlýr
             isStarted = true;
         if (isStarted)
+        {
             ArrowSpawner();
+        }
+            
         //remainingArrow--;
         //if (remainingArrow != 0)
         //else FinishTheGame();
@@ -55,6 +59,7 @@ public class ArrowSpawn : MonoBehaviour
             Invoke("Restart", restartDelay);
         }
     }
+
 
     void Restart()
     {
