@@ -4,9 +4,14 @@ using UnityEngine;
 
 public class ArrowSpawn : MonoBehaviour
 {
+    //TODO:Trigger eklenerek yeþil kutunun vurulmasý tetiklenecek.
+    //TODO:Ok'un position bilgisi generic çekilip transform.position.y'e eþitlenecek.
+    //TODO:yeniden gelen ok hakký bitene kadar tekrar atýlabilecek.
+    //TODO:Vuruþ,ýska,bitiþ olarak hata mesajlarý.
+
 
     public GameObject Arrow;
-    public int remainingArrow; //kalan ok sayýsý
+    public int remainingArrow=5; //kalan ok sayýsý
     public bool isGameEnded = false;
     public float restartDelay = 5f;
 
@@ -21,7 +26,21 @@ public class ArrowSpawn : MonoBehaviour
 
     void ArrowSpawner()
     {
-        Instantiate(Arrow, transform.position, transform.rotation); //ok spawnlanmasý için gerekli fonksiyon
+        float startPos = transform.position.y;
+
+        //Instantiate(Arrow, transform.position, transform.rotation); //ok spawnlanmasý için gerekli fonksiyon
+        float movespeed = 0.01f;
+        movespeed += 0.01f;
+        //transform.position = new Vector3(transform.position.x, transform.position.y + movespeed);
+        transform.Translate(movespeed, 0, 0);
+
+        Invoke("SetOriginalPosition", 2.0f);
+
+    }
+
+    public void SetOriginalPosition()
+    {
+        transform.position = new Vector3(transform.position.x, -2.5f);
     }
 
     void FinishTheGame()
@@ -29,13 +48,13 @@ public class ArrowSpawn : MonoBehaviour
         if (isGameEnded==false)
         {
             isGameEnded=true;
-            Debug.Log($"The End !\nYour Score:{/*score deðiþkeninden gelecek bilgi*/}");
+           // Debug.Log($"The End !\nYour Score:{}");/*score deðiþkeninden gelecek bilgi*/
             Invoke("Restart", restartDelay);
         }
     }
 
     void Restart()
     {
-        SceneManager.LoadScene(SceneManager.GetActiveScene().name); //Mevcut scene için düzenlenmeli.
+        //SceneManager.LoadScene(SceneManager.GetActiveScene().name); //Mevcut scene için düzenlenmeli.
     }
 }

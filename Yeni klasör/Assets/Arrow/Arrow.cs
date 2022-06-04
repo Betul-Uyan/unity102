@@ -20,6 +20,7 @@ public class Arrow : MonoBehaviour
     void Update()
     {
         if (hareketkýsýtlý == false)
+        if (hareketkýsýtlý == false)
         {
 
             rb.MovePosition(rb.position + Vector2.up * speed * Time.deltaTime); //oku yukarý doðru hareket ettirir
@@ -35,7 +36,7 @@ public class Arrow : MonoBehaviour
         }
         if (col.gameObject.tag == "darts")   //darts prefabýna deðerse oyun biter
         {
-            Manager.GetComponent<end>().finish();
+            //Manager.GetComponent<end>().finish();
 
         }
     }
