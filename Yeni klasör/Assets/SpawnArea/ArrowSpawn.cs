@@ -20,10 +20,22 @@ public class ArrowSpawn : MonoBehaviour
     void Update()
     {
         if (Input.GetMouseButtonDown(0)) //sol týka basýlýrsa ok atýlýr
+        {
             isStarted = true;
+            remainingArrow--;
+            Debug.Log($"Remaining arrow: {remainingArrow}");
+        }
+            
         if (isStarted)
         {
-            ArrowSpawner();
+            if (remainingArrow>0)
+            {
+                ArrowSpawner();
+            }
+            else
+            {
+                Debug.Log($"Arrow not found!");
+            }
         }
             
         //remainingArrow--;
@@ -41,13 +53,14 @@ public class ArrowSpawn : MonoBehaviour
         //transform.position = new Vector3(transform.position.x, transform.position.y + movespeed);
         transform.Translate(movespeed, 0, 0);
 
-        Invoke("SetOriginalPosition", 2.0f);
+        Invoke("SetOriginalPosition", 1.1f);
 
     }
 
     public void SetOriginalPosition()
     {
         transform.position = new Vector3(transform.position.x, -2.5f);
+        isStarted = false;
     }
 
     void FinishTheGame()
