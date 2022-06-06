@@ -124,4 +124,4 @@ Alınan kararlar: Dart game olarak kararlaştırılan ürün hikaye eklenerek "D
   - Çalışma temposu konusunda uyumsuzluklara rağmen bütün takım üyeleri iletişimi sürdürdü ve yapıcı eleştiriler ve yardımlarla birbirini destekledi.
 
 -**Diğer Notlar**:
-- n/a
+- Ürünün .apk indirme linki: https://drive.google.com/file/d/1hwKZQVYRg47p-DJknO5JS2qViAJ7R45C/view?usp=sharing
