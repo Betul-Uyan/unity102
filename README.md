@@ -116,7 +116,7 @@ Alınan kararlar: Yapılan ürün ve asset araştırmaları sonucunda ürünün 
 ![Ürün Durumu 3](https://github.com/Betul-Uyan/unity102/blob/main/ProjectManagement/Sprint3Documents/urunDurumu3.jpg)
 
 - **Sprint Review**: 
-Alınan kararlar: Dart game olarak kararlaştırılan ürün hikaye eklenerek "Diamond Hunter" şeklini almıştır. Ürün hedefleri takımın tam kapasite çalışamaması ve zaman endişesi göz önünde bulunarak sadeleştirmeye gidilmiştir. Sonuç olarak çalışan bir prototip ve fikirlerimizi anlatan bir tasarım belgesi geliştirilmiştir. Sprint Review katılımcıları: Betül Uyan, Buse Elitok, Enes Şağban, Murat Çelik, Tuba Kızgın.
+Alınan kararlar: Dart game olarak kararlaştırılan ürün hikaye eklenerek "Diamond Hunter" şeklini almıştır. Ürün hedeflerinde, takımın tam kapasite çalışamaması ve zaman endişesi göz önünde bulunarak sadeleştirmeye gidilmiştir. Sonuç olarak çalışan bir prototip ve fikirlerimizi anlatan bir tasarım belgesi geliştirilmiştir. Sprint Review katılımcıları: Betül Uyan, Buse Elitok, Enes Şağban, Murat Çelik, Tuba Kızgın.
 
 - **Sprint Retrospective:**
   - Takım üyeleri tam zamanlı olarak bu proje üzerinde çalışamadığı için ürün teslimi konusunda sadeleşmeye gidildi.
