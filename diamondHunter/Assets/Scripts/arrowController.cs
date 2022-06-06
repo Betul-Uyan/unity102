@@ -32,6 +32,7 @@ public class arrowController : MonoBehaviour
             _animator.SetTrigger(name: "shoot");
             Destroy(GameObject.FindWithTag("diamond"));
             Text.SetActive(true);
+
         }
         else
         {
