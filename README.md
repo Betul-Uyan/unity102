@@ -103,7 +103,7 @@ Alınan kararlar: Yapılan ürün ve asset araştırmaları sonucunda ürünün 
 
 - **Sprint Notları**: Product backloglar ilgili sprint tablolarında gösterilmiştir. Görev alan/katkı veren takım üyeleri renk kodlarıyla backlog'un yanında gösterilmiştir. Tamamlanması gereken toplam puan hedefi 200 olarak belirlenmiştir. Sprint 2 için puan hedefi 80'dir. Her bir iş için belirlenen puan, yanındaki sarı renkli çemberin içinde yazılı olarak panoda gösterilmiştir. Mor renkli çemberler değer puanını göstermektedir.
 
-- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü haftada 2 kere Zoom üzerinden, diğer günler WhatsApp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantı notları: [Unity102 - Sprint 3 Daily Scrum](https://github.com/Betul-Uyan/unity102/blob/main/ProjectManagement/Sprint3Documents/Unity102_DailyScrumMeetingNotesSprint3.docx)
+- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü haftada 2 kere Zoom üzerinden, diğer günler WhatsApp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantı notları: [Unity102 - Sprint 3 Daily Scrum]
 
 - **Sprint board update**: Sprint board screenshotları: 
 ![Sprint Board Update 1](https://github.com/Betul-Uyan/unity102/blob/main/ProjectManagement/Sprint3Documents/sprintBoard1.jpg) 
