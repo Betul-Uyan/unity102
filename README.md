@@ -1,6 +1,6 @@
 # **Takım İsmi**
 
-Unity 102
+Diamond Hunters (Unity 102)
 
 # Ürün İle İlgili Bilgiler
 
@@ -14,21 +14,23 @@ Unity 102
 
 ## Ürün İsmi
 
---Dart Game--
+Diamond Hunter
 
 ## Ürün Açıklaması
 
-- Buraya bir açıklama yazacağız.
+Bu oyunda, sen bir elmas avcısısın. Elmasları hedef al, vur ve topla. Ne kadar çok elmas toplarsan o kadar çok kazanırsın!
 
 ## Ürün Özellikleri
 
-- Buraya bir özellik yazacağız.
-- Buraya diğer bir özellik yazacağız.
-- Buraya bir özellik daha yazacağız.
+- Elmas toplamak için belirli sayıda ok ile elmas hedefini vurmaya çalış.
+- Dikkat et! Hedefin hızı ve şekli her an değişebilir, ıskalama!
+- Eğer elmasları toplayamadan okların biterse, ok satın alabilir ya da canlarının dolmasını bekleyebilirsin.
 
 ## Hedef Kitle
 
-- Buraya hedef kitlemizi yazacağız.
+- Android işletim sistemi kullanan oyuncular
+- Casual oyunlardan zevk alanlar
+- Hedef ve atış oyunlarını sevenler
 
 ## Product Backlog URL
 
@@ -64,9 +66,9 @@ Alınan kararlar: Oyun geliştirme sürecinin başında High-Level Design Docume
 
 # Sprint 2
 
-- **Sprint Notları**: Product backloglar ilgili sprint tablolarında gösterilmiştir. Görev alan/katkı veren takım üyeleri renk kodlarıyla backlog'un yanında gösterilmiştir. Tamamlanması gereken toplam puan hedefi 200 olarak belirlenmiştir. Sprint 2 için puan hedefi 80'dir. Her bir iş için belirlenen puan, yanındaki sarı renkli çemberin içinde yazılı olarak panoda gösterilmiştir. Mor renkli çemberler değer puanını göstermektedir.
+- **Sprint Notları**: Product backloglar ilgili sprint tablolarında gösterilmiştir. Görev alan/katkı veren takım üyeleri renk kodlarıyla backlog'un yanında gösterilmiştir. Tamamlanması gereken toplam puan hedefi 200 olarak belirlenmiştir. Sprint 3 için puan hedefi 40'tır. Her bir iş için belirlenen puan, yanındaki sarı renkli çemberin içinde yazılı olarak panoda gösterilmiştir. Mor renkli çemberler değer puanını göstermektedir.
 
-- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü haftada 2 kere Zoom üzerinden, diğer günler WhatsApp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantı notları: [Unity102 - Sprint 2 Daily Scrum](https://github.com/Betul-Uyan/unity102/blob/main/ProjectManagement/Sprint2Documents/Unity102_DailyScrumMeetingNotesSprint2.docx)
+- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü haftada 1 kere Zoom üzerinden, diğer günler WhatsApp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantı notları: [Unity102 - Sprint 3 Daily Scrum](https://github.com/Betul-Uyan/unity102/blob/main/ProjectManagement/Sprint2Documents/Unity102_DailyScrumMeetingNotesSprint2.docx)
 
 - **Sprint board update**: Sprint board screenshotları: 
 ![Sprint Board Update 1](https://github.com/Betul-Uyan/unity102/blob/main/ProjectManagement/Sprint2Documents/sprintBoardUpdate1.jpg) 
@@ -99,4 +101,27 @@ Alınan kararlar: Yapılan ürün ve asset araştırmaları sonucunda ürünün 
 
 # Sprint 3
 
----
+- **Sprint Notları**: Product backloglar ilgili sprint tablolarında gösterilmiştir. Görev alan/katkı veren takım üyeleri renk kodlarıyla backlog'un yanında gösterilmiştir. Tamamlanması gereken toplam puan hedefi 200 olarak belirlenmiştir. Sprint 2 için puan hedefi 80'dir. Her bir iş için belirlenen puan, yanındaki sarı renkli çemberin içinde yazılı olarak panoda gösterilmiştir. Mor renkli çemberler değer puanını göstermektedir.
+
+- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü haftada 2 kere Zoom üzerinden, diğer günler WhatsApp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantı notları: [Unity102 - Sprint 3 Daily Scrum](https://github.com/Betul-Uyan/unity102/blob/main/ProjectManagement/Sprint3Documents/Unity102_DailyScrumMeetingNotesSprint3.docx)
+
+- **Sprint board update**: Sprint board screenshotları: 
+![Sprint Board Update 1](https://github.com/Betul-Uyan/unity102/blob/main/ProjectManagement/Sprint3Documents/sprintBoard1.jpg) 
+![Sprint Board Update 2](https://github.com/Betul-Uyan/unity102/blob/main/ProjectManagement/Sprint3Documents/sprintBoard2.jpg)
+![Sprint Board Update 3](https://github.com/Betul-Uyan/unity102/blob/main/ProjectManagement/Sprint3Documents/sprintBoard3.jpg)
+
+- **Ürün Durumu**: Takımın tam kapasite çalışamamasından dolayı ürün hedeflerinin revize edilmesine karar verilmiştir. Dart oyunu, hikayesi geliştirilerek "diamond hunter" olarak belirlenmiştir. Yeni hedefler üzerinden, diamond hunter için bir prototip üretilmesine karar verilmiştir. Ürünün son durumuna ait görseller aşağıdadır:
+- ![Ürün Durumu 1](https://github.com/Betul-Uyan/unity102/blob/main/ProjectManagement/Sprint3Documents/urunDurumu1.jpg)
+![Ürün Durumu 2](https://github.com/Betul-Uyan/unity102/blob/main/ProjectManagement/Sprint3Documents/urunDurumu2.jpg)
+![Ürün Durumu 3](https://github.com/Betul-Uyan/unity102/blob/main/ProjectManagement/Sprint3Documents/urunDurumu3.jpg)
+
+- **Sprint Review**: 
+Alınan kararlar: Dart game olarak kararlaştırılan ürün hikaye eklenerek "Diamond Hunter" şeklini almıştır. Ürün hedefleri takımın tam kapasite çalışamaması ve zaman endişesi göz önünde bulunarak sadeleştirmeye gidilmiştir. Sonuç olarak çalışan bir prototip ve fikirlerimizi anlatan bir tasarım belgesi geliştirilmiştir. Sprint Review katılımcıları: Betül Uyan, Buse Elitok, Enes Şağban, Murat Çelik, Tuba Kızgın.
+
+- **Sprint Retrospective:**
+  - Takım üyeleri tam zamanlı olarak bu proje üzerinde çalışamadığı için ürün teslimi konusunda sadeleşmeye gidildi.
+  - Ürünü geliştirmeye verilen katkı konusunda takım üyeleri arasında dengesizlik olduğu herkes tarafından kabul edildi.
+  - Çalışma temposu konusunda uyumsuzluklara rağmen bütün takım üyeleri iletişimi sürdürdü ve yapıcı eleştiriler ve yardımlarla birbirini destekledi.
+
+-**Diğer Notlar**:
+- n/a
